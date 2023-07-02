@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, Meu nome é Lucas Cordó! 👋
+No final do ano de 2021 iniciei meus estudos na programação e seus respectivos temas, no entanto dês de criança me considero um entusiasta da tecnologia. Atualmente estou cursando o bacharel de ciência da computação na universidade Nove de Julho (3° Semestre).
 
-<!--
-**LucasCordo/LucasCordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sempre focado em inovar como desenvolvedor, diante das tecnologias que estou aplicado :)
 
-Here are some ideas to get you started:
+📲 Tecnologias e bibliotecas que eu utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Front-end:**
+- JavaScript | React | Next | Tailwind | Typescript
+
+**Back-end:**
+- Node | HTTPIE | Fastify | SQLite | Typescript
+
+**Outros:**
+- Python
